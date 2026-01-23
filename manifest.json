@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Custom Any Element PiP",
+  "version": "1.0",
+  "description": "Đưa bất kỳ phần tử nào vào chế độ Picture-in-Picture",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
