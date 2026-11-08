@@ -1,2 +1,2 @@
-# test-exxtension
+# test-extension
 test
